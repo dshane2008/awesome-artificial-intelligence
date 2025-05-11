@@ -29,7 +29,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [Chat GPT](https://chat.openai.com/) ChatGPT is a free-to-use AI system. It allows users to engage in conversations, gain insights, automate tasks, and witness the future of AI all in one place.
 * [Gemini](https://gemini.google.com/) Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.
 * [Claude](https://www.anthropic.com/claude) Claude is a family of foundational AI models that can be used in various applications. You can talk directly with Claude at claude.ai to brainstorm ideas, analyze images, and process long documents
-
+* [Astra-AI](https://github.com/dshane2008/Astra-AI) – Emotional memory AI assistant built with OpenAI and SQLite. Tracks facts and emotions locally.
 ### Images  
 * [Midjourney](https://www.midjourney.com/) AI image generation
 * [DALL·E 2](https://openai.com/dall-e-3) DALL·E 3 is an AI system that can create realistic images and art from a natural-language description.
